@@ -1,0 +1,21 @@
+Price=m * area + b
+
+y=m * x + b
+
+m -> Slope (or Gradient) 
+Y -> Intercept
+
+for every line y=mx+b hi hoti hai.
+
+Price -> Dependent Variable
+Area -> Independent variable
+
+for ploting the scatter plot jupyter Notebook and vscode require little bit different type of code
+
+
+ for scatterplot in the vscode first install pandas and matplotlib from terminal then you can use these
+ code ---   pip install pandas matplotlib
+
+ To display the scatterplot use the follo
+
+To run the code in the vscode we have to first use the "cd" command and set the directary after that we have to use the python name_project.py in the terminal. then hit the enter
