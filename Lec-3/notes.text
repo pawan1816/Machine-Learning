@@ -1,0 +1,7 @@
+Price = m1* area + m2 * bedrooms + m3 * age + b
+
+
+Independent variables (fatures) = area, bedrooms, age.
+Dependent variable = Price
+coficient - m1,m2,m3.
+slope - b

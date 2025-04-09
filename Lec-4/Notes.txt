@@ -1,0 +1,30 @@
+you just have to know overview of the math not in details for machine learning
+
+
+
+y=2x+ 3
+
+x=[1,2,3,4,5]
+
+y=[5,7,9,11,13]
+
+you have input output and you have to predication function
+equation(predication function)--> Mean square error (cost function)
+
+
+Gradient descent is an algorithm that finds best fit line for given training dataset
+
+
+disadvantages 
+it misses the global minima in the fixed step of reducation of MSE(cost)
+
+solution 
+reduce the MSE(cost) with very small small value. use derivatives.
+
+slope= change in Y / change in X
+
+if the slope x approch 0, its accuracy will increase.
+
+
+
+to stop the iteration use iscloase()

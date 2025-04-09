@@ -1,0 +1,3 @@
+Save and load trained model Using
+1. pickle
+2. dklearn joblib == for the large Numpy arrays

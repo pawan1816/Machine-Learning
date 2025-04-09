@@ -1,0 +1,37 @@
+Topic
+
+categorial, Dummy Variables
+One Hot Encoding
+
+1. Using pandas get_dummies
+2. Using Sklearn OneHotEncoder
+
+
+Q build a predictor function to predict price of a home.
+
+1. with 3400 sqr ft area in west windsor
+2. 2800 sqr ft home in robbinsville
+
+
+handle text column
+
+cant use number for handling the text because it takes mathematically sense over there.
+
+
+categorial Variables
+1. normal = no relation over the Variables
+2. ordinal= relation over the Variables
+
+to encode the text data there is important technique that is ONE HOT ENCODING
+
+One hot encoding== creating a new columns and assigns 0 and 1 over there
+
+
+
+Excercise 
+
+all the same level as this notebook on github, there is an Excercise folder that contains.csv. this file has car sell prices for 3 different models. First plot data points on a scatter plot chart to see if linear regression model can be applied. if yes then build a model that can answer following questions.
+
+1). Predict price of a mercedez benz that is 4 yr old with milearge 45000.
+2). Predict price of a BMW that is 7 yr old with mileage 86000.
+3). Tell me the score(accuracy) of your model. Hint use Linear Regression().score()
