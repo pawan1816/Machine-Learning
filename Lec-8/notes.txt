@@ -1,0 +1,33 @@
+Linear Regression
+ex- Home prices, Weather, Stock prices
+
+Predicted value is continuous
+
+
+Classification
+ex- Email is spam or not 
+will customer buy life insurance?
+which party a person is going to vote for 1. BJP 2. Congress 3. AAP
+
+Predicted value is categorical
+
+
+
+Logistic regression is one of the techniques used for Classification.
+
+
+Classification Types 
+1. Binary Classification.
+2. Multiclass Classification.
+
+
+Logistic regressoin uses Sigmoid or Logistic function
+
+
+Sigmoid (Z) = 1/1+pow(e,-z)
+e= Euler's number ~ 2.71828
+
+Sigmoid function Convert input into range 0 to 1
+
+general linear regression function===> y = m * x + b 
+Sigmoid linear regression function==> y = 1/(1+ pow(e,-(m*x +b)))

@@ -1,0 +1,1 @@
+Split available dataset into training and test using sklearn.model_selection.train_test_split
