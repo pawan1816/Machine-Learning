@@ -1,0 +1,12 @@
+Decision Tree
+
+
+How do you select Ordering of features?
+
+Entropy- randomness of measurement
+6/0- low Entropy4/4 high entropy
+Gini impurity: Impurity in our dataset
+
+
+
+this model is for predicting the salary is it more then 100k or not, for the given criteria.
